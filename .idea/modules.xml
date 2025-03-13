@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1-single-responsibility-principle/1-single-responsibility-principle.iml" filepath="$PROJECT_DIR$/1-single-responsibility-principle/1-single-responsibility-principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-OpenClosed-Principle/2-OpenClosed-Principle.iml" filepath="$PROJECT_DIR$/2-OpenClosed-Principle/2-OpenClosed-Principle.iml" />
       <module fileurl="file://$PROJECT_DIR$/solid-principles.iml" filepath="$PROJECT_DIR$/solid-principles.iml" />
     </modules>
   </component>
